@@ -4,3 +4,4 @@
 - Pain
 - Saucisse
 - Sauce
+- Salade
